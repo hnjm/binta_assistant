@@ -11,8 +11,8 @@ the important thing to know before using Binta is that it's a client server appl
  `python server.py`
  
 ### running client 
+Once server runing you have to run client also witch must listening the websocket server that started earlier,note that you can build your application completly in client.py file 
 
- once server runing you have to run client also witch must listening the websocket server that started earlier,note that you can build your application completly in client.py file 
  ---
  
  Binta is build on Vosk that is an offline open source speech recognition toolkit to look it click here [github Vosk repository](https://github.com/alphacep/vosk-api)
