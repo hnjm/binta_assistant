@@ -1,0 +1,6 @@
+pyttsx3
+vosk
+sounddevice
+PyAudio
+websockets
+asyncio
